@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: eureka-server
-
 eureka:
   client:
     # 表示是否将自己注册到Eureka Server，默认为true。
